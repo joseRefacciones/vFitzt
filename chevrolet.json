@@ -1,0 +1,1754 @@
+const chevrolet = [
+            {
+                "value": "chevrolet#agile",
+                "label": "Agile",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#alero",
+                "label": "Alero",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#astra",
+                "label": "Astra",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#astro",
+                "label": "Astro",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#avalanche",
+                "label": "Avalanche",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#avalanche-1500",
+                "label": "Avalanche 1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#avalanche-2500",
+                "label": "Avalanche 2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#aveo",
+                "label": "Aveo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#aveo-family",
+                "label": "Aveo Family",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#aveo-u-va",
+                "label": "Aveo U-VA",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#aveo5",
+                "label": "Aveo5",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#beat",
+                "label": "Beat",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#beat-nb",
+                "label": "Beat NB",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#bel-air",
+                "label": "Bel Air",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#beretta",
+                "label": "Beretta",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#biscayne",
+                "label": "Biscayne",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#blazer",
+                "label": "Blazer",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#blazer ev",
+                "label": "Blazer EV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#bolt",
+                "label": "Bolt",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#bolt-euv",
+                "label": "Bolt EUV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#bolt-ev",
+                "label": "Bolt EV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c10",
+                "label": "C10",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c1500",
+                "label": "C1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c1500-suburban",
+                "label": "C1500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c20",
+                "label": "C20",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c20-suburban",
+                "label": "C20 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c2500",
+                "label": "C2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c2500-suburban",
+                "label": "C2500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c30",
+                "label": "C30",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#c3500",
+                "label": "C3500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#camaro",
+                "label": "Camaro",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#caprice",
+                "label": "Caprice",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#captiva",
+                "label": "Captiva",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#captiva-sport",
+                "label": "Captiva Sport",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cavalier",
+                "label": "Cavalier",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#celebrity",
+                "label": "Celebrity",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#celta",
+                "label": "Celta",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevelle",
+                "label": "Chevelle",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy",
+                "label": "Chevy",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy-2",
+                "label": "Chevy II",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy-2-nova",
+                "label": "Chevy II Nova",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy-ii",
+                "label": "Chevy II",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy-ii-nova",
+                "label": "Chevy II Nova",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#chevy-pickup",
+                "label": "Chevy Pickup",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cheyenne",
+                "label": "Cheyenne",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#city-express",
+                "label": "City Express",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#classic",
+                "label": "Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cobalt",
+                "label": "Cobalt",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#colorado",
+                "label": "Colorado",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#corsa",
+                "label": "Corsa",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#corsa-classic",
+                "label": "Corsa Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#corsica",
+                "label": "Corsica",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#corvair",
+                "label": "Corvair",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#corvette",
+                "label": "Corvette",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cruze",
+                "label": "Cruze",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cruze-limited",
+                "label": "Cruze Limited",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#cruze-sport6-rs",
+                "label": "Cruze Sport6 RS",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#d-max",
+                "label": "D-Max",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#damas",
+                "label": "Damas",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#el-camino",
+                "label": "El Camino",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#enjoy",
+                "label": "Enjoy",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#epica",
+                "label": "Epica",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#equinox",
+                "label": "Equinox",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#equinox ev",
+                "label": "Equinox EV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#evanda",
+                "label": "Evanda",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express",
+                "label": "Express",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express 2500",
+                "label": "Express 2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express 3500",
+                "label": "Express 3500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express 4500",
+                "label": "Express 4500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express cargo",
+                "label": "Express Cargo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express-1500",
+                "label": "Express 1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express-2500",
+                "label": "Express 2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express-3500",
+                "label": "Express 3500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express-cargo",
+                "label": "Express Cargo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#express-pasajeros",
+                "label": "Express Pasajeros",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#g10",
+                "label": "G10",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#g20",
+                "label": "G20",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#g30",
+                "label": "G30",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#groove",
+                "label": "Groove",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#hhr",
+                "label": "HHR",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#hhr-ss",
+                "label": "HHR SS",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#impala",
+                "label": "Impala",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#impala-limited",
+                "label": "Impala Limited",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#joy",
+                "label": "Joy",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#joy-plus",
+                "label": "Joy Plus",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k10",
+                "label": "K10",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k1500",
+                "label": "K1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k1500-suburban",
+                "label": "K1500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k20",
+                "label": "K20",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k2500",
+                "label": "K2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k2500-suburban",
+                "label": "K2500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#k3500",
+                "label": "K3500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#kadett",
+                "label": "Kadett",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#kalos",
+                "label": "Kalos",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#labo",
+                "label": "Labo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lacetti",
+                "label": "Lacetti",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lanos",
+                "label": "Lanos",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 3500hg",
+                "label": "LCF 3500HG",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 4500",
+                "label": "LCF 4500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 4500hd",
+                "label": "LCF 4500HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 4500xd",
+                "label": "LCF 4500XD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 5500hd",
+                "label": "LCF 5500HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 5500hg",
+                "label": "LCF 5500HG",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 5500xd",
+                "label": "LCF 5500XD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 5500xg",
+                "label": "LCF 5500XG",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lcf 6500xd",
+                "label": "LCF 6500XD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lova",
+                "label": "Lova",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lova-rv",
+                "label": "Lova RV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lumina",
+                "label": "Lumina",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lumina-apv",
+                "label": "Lumina APV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#lumina-van",
+                "label": "Lumina Van",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#luv",
+                "label": "LUV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#malibu",
+                "label": "Malibu",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#malibu-limited",
+                "label": "Malibu Limited",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#malibu-maxx",
+                "label": "Malibu Maxx",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#malibu-xl",
+                "label": "Malibu XL",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#matiz",
+                "label": "Matiz",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#menlo",
+                "label": "Menlo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#meriva",
+                "label": "Meriva",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#metro",
+                "label": "Metro",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#montana",
+                "label": "Montana",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#monte-carlo",
+                "label": "Monte Carlo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#monza",
+                "label": "Monza",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#move",
+                "label": "Move",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#move-n300",
+                "label": "Move N300",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#mw",
+                "label": "MW",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#n300",
+                "label": "N300",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#n400",
+                "label": "N400",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#nexia",
+                "label": "Nexia",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#niva",
+                "label": "Niva",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#nova",
+                "label": "Nova",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#nubira",
+                "label": "Nubira",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#omega",
+                "label": "Omega",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#onix",
+                "label": "Onix",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#onix-activ",
+                "label": "Onix Activ",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#onix-joy",
+                "label": "Onix Joy",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#onix-plus",
+                "label": "Onix Plus",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#optra",
+                "label": "Optra",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#orlando",
+                "label": "Orlando",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#prisma",
+                "label": "Prisma",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#prisma-joy",
+                "label": "Prisma Joy",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#prizm",
+                "label": "Prizm",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#r1500-suburban",
+                "label": "R1500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#r20-suburban",
+                "label": "R20 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#r2500-suburban",
+                "label": "R2500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#rezzo",
+                "label": "Rezzo",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#s10",
+                "label": "S10",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#s10 max",
+                "label": "S10 Max",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#s10-blazer",
+                "label": "S10 Blazer",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#s10-max",
+                "label": "S10 Max",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sail",
+                "label": "Sail",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sail-life",
+                "label": "Sail Life",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sail3",
+                "label": "Sail3",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#savana",
+                "label": "Savana",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#seeker",
+                "label": "Seeker",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado",
+                "label": "Silverado",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 1500",
+                "label": "Silverado 1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 2500 hd",
+                "label": "Silverado 2500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 3500 hd",
+                "label": "Silverado 3500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 4500 hd",
+                "label": "Silverado 4500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 5500 hd",
+                "label": "Silverado 5500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado 6500 hd",
+                "label": "Silverado 6500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado ev",
+                "label": "Silverado EV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500",
+                "label": "Silverado 1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500-classic",
+                "label": "Silverado 1500 Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500-hd",
+                "label": "Silverado 1500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500-hd-classic",
+                "label": "Silverado 1500 HD Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500-ld",
+                "label": "Silverado 1500 LD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-1500-limited",
+                "label": "Silverado 1500 Limited",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-2500",
+                "label": "Silverado 2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-2500-hd",
+                "label": "Silverado 2500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-2500-hd-classic",
+                "label": "Silverado 2500 HD Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-3500",
+                "label": "Silverado 3500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-3500-classic",
+                "label": "Silverado 3500 Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-3500-hd",
+                "label": "Silverado 3500 HD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#silverado-ld",
+                "label": "Silverado LD",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sonic",
+                "label": "Sonic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sonora",
+                "label": "Sonora",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark",
+                "label": "Spark",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-activ",
+                "label": "Spark Activ",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-classic",
+                "label": "Spark Classic",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-ev",
+                "label": "Spark EV",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-gt",
+                "label": "Spark GT",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-gt-activ",
+                "label": "Spark GT Activ",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spark-life",
+                "label": "Spark Life",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spin",
+                "label": "Spin",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#spin-activ",
+                "label": "Spin Activ",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#sprint",
+                "label": "Sprint",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#ss",
+                "label": "SS",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#ssr",
+                "label": "SSR",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#suburban",
+                "label": "Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#suburban-1500",
+                "label": "Suburban 1500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#suburban-2500",
+                "label": "Suburban 2500",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#suburban-c20",
+                "label": "C20 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#suburban-r20",
+                "label": "R20 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#t-series",
+                "label": "T-Series",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tahoe",
+                "label": "Tahoe",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tavera",
+                "label": "Tavera",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tigra",
+                "label": "Tigra",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tornado",
+                "label": "Tornado",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tornado van",
+                "label": "Tornado Van",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tornado-van",
+                "label": "Tornado Van",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tracker",
+                "label": "Tracker",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#tracker-rs",
+                "label": "Tracker RS",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#trailblazer",
+                "label": "Trailblazer",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#trailblazer-ext",
+                "label": "TrailBlazer EXT",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#trans-sport",
+                "label": "Trans Sport",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#traverse",
+                "label": "Traverse",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#traverse limited",
+                "label": "Traverse Limited",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#trax",
+                "label": "Trax",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#uplander",
+                "label": "Uplander",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#utility",
+                "label": "Utility",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#v1500-suburban",
+                "label": "V1500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#v2500-suburban",
+                "label": "V2500 Suburban",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#vectra",
+                "label": "Vectra",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#venture",
+                "label": "Venture",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#viva",
+                "label": "Viva",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#volt",
+                "label": "Volt",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "chevrolet#zafira",
+                "label": "Zafira",
+                "parent": "Chevrolet",
+                "parentValue": "chevrolet",
+                "custom": 0,
+                "id": null
+            }
+        ]
