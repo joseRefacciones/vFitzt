@@ -1,0 +1,402 @@
+const dodge =  [
+            {
+                "value": "dodge#aries",
+                "label": "Aries",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#attitude",
+                "label": "Attitude",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#avenger",
+                "label": "Avenger",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#b150",
+                "label": "B150",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#caliber",
+                "label": "Caliber",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#caliber-srt",
+                "label": "Caliber SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#caliber-srt-4",
+                "label": "Caliber SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#caravan",
+                "label": "Caravan",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#challenger",
+                "label": "Challenger",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#challenger-srt",
+                "label": "Challenger SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#challenger-srt-8",
+                "label": "Challenger SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#charger",
+                "label": "Charger",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#charger daytona",
+                "label": "Charger Daytona",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#charger-srt",
+                "label": "Charger SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#colt",
+                "label": "Colt",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#d150",
+                "label": "D150",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#dakota",
+                "label": "Dakota",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#dart",
+                "label": "Dart",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#durango",
+                "label": "Durango",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#durango-srt",
+                "label": "Durango SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#dynasty",
+                "label": "Dynasty",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#forza",
+                "label": "Forza",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#grand-caravan",
+                "label": "Grand Caravan",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#hornet",
+                "label": "Hornet",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#intrepid",
+                "label": "Intrepid",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#jc",
+                "label": "JC",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#journey",
+                "label": "Journey",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#magnum",
+                "label": "Magnum",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#magnum-srt",
+                "label": "Magnum SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#magnum-srt-8",
+                "label": "Magnum SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#monaco",
+                "label": "Monaco",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#neon",
+                "label": "Neon",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#neon-srt",
+                "label": "Neon SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#neon-srt-4",
+                "label": "Neon SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#nitro",
+                "label": "Nitro",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-1500",
+                "label": "Ram 1500",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-1500-van",
+                "label": "Ram 1500 Van",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-2500",
+                "label": "Ram 2500",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-3500",
+                "label": "Ram 3500",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-3500-van",
+                "label": "Ram 3500 Van",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-srt",
+                "label": "Ram SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#ram-srt-10",
+                "label": "Ram SRT",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#royal-monaco",
+                "label": "Royal Monaco",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#spirit",
+                "label": "Spirit",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#stealth",
+                "label": "Stealth",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#stratus",
+                "label": "Stratus",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#van-1500",
+                "label": "Ram 1500 Van",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#van-3500",
+                "label": "Ram 3500 Van",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#viper",
+                "label": "Viper",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            },
+            {
+                "value": "dodge#vision",
+                "label": "Vision",
+                "parent": "Dodge",
+                "parentValue": "dodge",
+                "custom": 0,
+                "id": null
+            }
+        ]
